@@ -21,4 +21,24 @@ h1{
     justify-content: center;  
 }
 
+.footer{ 
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+   
+   
+}
+.mini-footer{
+    margin-top: 100px;
+}
 
+ .footer1{}
+
+.social{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 70px;
+}
